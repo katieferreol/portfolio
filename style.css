@@ -63,6 +63,19 @@ h1.two {
   margin-bottom: 5%;
 }
 
+p.about1 {
+  color: black;
+  font-family: "Merchant Copy";
+  margin-top: 10%;
+}
+
+p.about2 {
+  text-align: center;
+  color: black;
+  font-family: "Merchant Copy";
+  margin-top: 5%;
+}
+
 p.desc {
   text-align: center;
   color: black;
@@ -181,6 +194,13 @@ div.title {
   border: none;
   padding: 0;
   line-height: 0;
+}
+
+div.title1 {
+  border: none;
+  padding: 0;
+  line-height: 0;
+  margin-left: 10%;
 }
 
 div.block {
@@ -346,8 +366,8 @@ img.spill {
 img.coins {
   position: absolute;
   top: 156vw;
-  left: -10vw;
-  transform: rotate(80deg);
+  left: -13vw;
+  transform: rotate(90deg);
   cursor:url('volume.png') 10 3, auto;
 }
 
