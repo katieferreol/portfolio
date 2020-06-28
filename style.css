@@ -97,6 +97,7 @@ p.lefts {
   color: black;
   font-family: "Merchant Copy";
   width: 80%;
+  cursor:url('sharpie1.png') 10 3, auto;
 }
 
 p.lefts:hover::after {
@@ -112,7 +113,6 @@ p.lefts::after {
   position: absolute;
   bottom: 50%;
   z-index: -1;
-
   transition: width 2s;
 
 }
@@ -376,7 +376,7 @@ div.margin {
 }
 
 a {
-  cursor:url('/Users/Katie/Desktop/sharpie1.png') 10 3, auto;
+  cursor:url('sharpie1.png') 10 3, auto;
 }
 
 .hw {
